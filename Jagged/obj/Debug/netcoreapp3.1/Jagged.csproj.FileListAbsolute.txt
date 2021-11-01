@@ -1,0 +1,14 @@
+C:\Users\Natel\Desktop\Semester 1\Object-Oriented Programming\Jagged\Jagged\bin\Debug\netcoreapp3.1\Jagged.exe
+C:\Users\Natel\Desktop\Semester 1\Object-Oriented Programming\Jagged\Jagged\bin\Debug\netcoreapp3.1\Jagged.deps.json
+C:\Users\Natel\Desktop\Semester 1\Object-Oriented Programming\Jagged\Jagged\bin\Debug\netcoreapp3.1\Jagged.runtimeconfig.json
+C:\Users\Natel\Desktop\Semester 1\Object-Oriented Programming\Jagged\Jagged\bin\Debug\netcoreapp3.1\Jagged.runtimeconfig.dev.json
+C:\Users\Natel\Desktop\Semester 1\Object-Oriented Programming\Jagged\Jagged\bin\Debug\netcoreapp3.1\Jagged.dll
+C:\Users\Natel\Desktop\Semester 1\Object-Oriented Programming\Jagged\Jagged\bin\Debug\netcoreapp3.1\Jagged.pdb
+C:\Users\Natel\Desktop\Semester 1\Object-Oriented Programming\Jagged\Jagged\obj\Debug\netcoreapp3.1\Jagged.csproj.AssemblyReference.cache
+C:\Users\Natel\Desktop\Semester 1\Object-Oriented Programming\Jagged\Jagged\obj\Debug\netcoreapp3.1\Jagged.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Natel\Desktop\Semester 1\Object-Oriented Programming\Jagged\Jagged\obj\Debug\netcoreapp3.1\Jagged.AssemblyInfoInputs.cache
+C:\Users\Natel\Desktop\Semester 1\Object-Oriented Programming\Jagged\Jagged\obj\Debug\netcoreapp3.1\Jagged.AssemblyInfo.cs
+C:\Users\Natel\Desktop\Semester 1\Object-Oriented Programming\Jagged\Jagged\obj\Debug\netcoreapp3.1\Jagged.csproj.CoreCompileInputs.cache
+C:\Users\Natel\Desktop\Semester 1\Object-Oriented Programming\Jagged\Jagged\obj\Debug\netcoreapp3.1\Jagged.dll
+C:\Users\Natel\Desktop\Semester 1\Object-Oriented Programming\Jagged\Jagged\obj\Debug\netcoreapp3.1\Jagged.pdb
+C:\Users\Natel\Desktop\Semester 1\Object-Oriented Programming\Jagged\Jagged\obj\Debug\netcoreapp3.1\Jagged.genruntimeconfig.cache
